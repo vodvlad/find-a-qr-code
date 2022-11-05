@@ -1,4 +1,4 @@
-# find-a-qr-code
+# Find a QR code
 This neural network searches the qr code and cuts it out.  
 Input data:  
   
